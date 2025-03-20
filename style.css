@@ -1,0 +1,24 @@
+#tit{
+    color: wheat;
+    text-align: center;
+    text-decoration: overline;
+    text-decoration: underline;
+}
+body{
+    background-color: black;
+}
+#one{
+    color: wheat;
+}
+#mel{
+    height: 5%; 
+    width: 6%;
+    text-decoration: ;
+    
+    text-align: center;
+    padding: 5px , 5px, 5px,5px;
+    background-color: mediumpurple;
+    color: lawngreen;
+    border:0;
+    border-radius: 4px;
+}
